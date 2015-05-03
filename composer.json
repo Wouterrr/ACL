@@ -1,0 +1,22 @@
+{
+  "name": "wouterrr/acl",
+  "type": "kohana-module",
+  "description": "Authorization through Access Control Lists for Kohana",
+  "keywords": ["kohana", "authorization", "authorisation", "access control list", "acl"],
+  "homepage": "https://github.com/Wouterrr/ACL",
+  "license": "BEER-WARE",
+  "authors": [
+    {
+      "name": "Wouter Wiegmans"
+    }
+  ],
+  "support": {
+    "issues":   "https://github.com/Wouterrr/ACL/issues",
+    "source":   "https://github.com/Wouterrr/ACL"
+  },
+  "require": {
+    "composer/installers": "~1.0",
+    "kohana/core": ">=3.3",
+    "php": ">=5.3.0"
+  }
+}
